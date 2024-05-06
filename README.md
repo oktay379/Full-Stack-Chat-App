@@ -1,4 +1,4 @@
-jwt and cookies were used for auth transactions, and context api was used for state management.
+jwt and cookies were used for auth transactions, context api was used for state management and lastly socketio was used for real time 
 Picks:
 <img width="1440" alt="Ekran Resmi 2024-05-06 19 46 12" src="https://github.com/oktay379/Full-Stack-Chat-App/assets/124916788/e43d2459-619a-4eb0-9b2a-7fd00c9400bf">
 <img width="1440" alt="Ekran Resmi 2024-05-06 19 46 05" src="https://github.com/oktay379/Full-Stack-Chat-App/assets/124916788/00302c36-dda8-45c7-a92e-6f2068db3665">
