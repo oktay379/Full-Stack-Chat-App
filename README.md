@@ -1,3 +1,5 @@
+<h1>Full-stack Chat-App application using Nodejs, expressjs mongodb, reactjs.</h1>
+<br><br><br>
 Jwt and cookies were used for auth transactions.
 <br>
 Context api was used for state management. 
