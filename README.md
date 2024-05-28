@@ -1,4 +1,4 @@
-### Chat-App
+## Chat-App
 Whatapp clone, the aim is to enable people to communicate in real time
 
 
