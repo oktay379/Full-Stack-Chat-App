@@ -39,7 +39,7 @@ Click "Submit" to complete the registration.
 Once registration is successful, you can log in.
 
 
-Technologies Used
+## Technologies Used
 - JWT and Cookies: Used for user authentication and storing user information.
 - State Management: Managed using Context Api.
 - Real Time: Socketio was used for real time.
